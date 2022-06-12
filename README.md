@@ -15,7 +15,7 @@ I like watching cricket, anime and reading manga and Light Novels. My favorite C
 <p align="center">
 	<a href="https://www.linkedin.com/in/dhananjay-sapawat-3b628920b/"><img  align="center" src="https://raw.githubusercontent.com/DhananjaySapawat/DhananjaySapawat/main/images/linkedin.svg" alt="LinkedIn" width="40px"/>&nbsp &nbsp</a>
 	<a href="https://www.instagram.com/dhan_man_jay_sapawat/"><img  align="center"  src="https://raw.githubusercontent.com/DhananjaySapawat/DhananjaySapawat/main/images/instagram.svg" alt="Instagram" width="40px"/>&nbsp &nbsp</a>
-	<a href="https://twitter.com/DhananjaySapaw1"><img align="center" src="https://raw.githubusercontent.com/DhananjaySapawat/DhananjaySapawat/main/images/twitter.png" alt="Twitter" width="40px"/></a>
+	<a href="https://twitter.com/DhananjaySapaw1"><img align="center" src="https://raw.githubusercontent.com/DhananjaySapawat/DhananjaySapawat/main/images/twitter.svg" alt="Twitter" width="40px"/></a>
 </p>
 
 
