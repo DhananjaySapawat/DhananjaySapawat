@@ -21,15 +21,15 @@ I like watching cricket, anime and reading manga and Light Novels. My favorite C
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb&logoColor=52A74B)&nbsp;
 <br>
 
-<h1 align ="center"> Connect With Me  </h1>
-<p align="center">
+<h1> Connect With Me  </h1>
+<p margin:"200px">
 	<a href="https://www.linkedin.com/in/dhananjay-sapawat-3b628920b/"><img  align="center" src="https://raw.githubusercontent.com/DhananjaySapawat/DhananjaySapawat/main/images/linkedin.svg" alt="LinkedIn" width="40px"/>&nbsp &nbsp</a>
 	<a href="https://www.instagram.com/dhan_man_jay_sapawat/"><img  align="center"  src="https://raw.githubusercontent.com/DhananjaySapawat/DhananjaySapawat/main/images/instagram.svg" alt="Instagram" width="40px"/>&nbsp &nbsp</a>
 	<a href="https://twitter.com/DhananjaySapaw1"><img align="center" src="https://raw.githubusercontent.com/DhananjaySapawat/DhananjaySapawat/main/images/twitter.svg" alt="Twitter" width="40px"/></a>
 </p>
 
-
-<p align ="center"> 
+<h1> GitHub Analytics </h1>
+<p> 
   <a href="https://github.com/DhananjaySapawat">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DhananjaySapawat&count_private=true&show_icons=true&theme=algolia&&include_all_commits=true"/>
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DhananjaySapawat&count_private=true&hide=html,css,Makefile&layout=compact&langs_count=10&theme=algolia"/>
