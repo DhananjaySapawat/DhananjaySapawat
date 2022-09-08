@@ -29,7 +29,7 @@ I like watching cricket, anime and reading manga and Light Novels. My favorite C
 </p>
 
 <h1> GitHub Analytics </h1>
-<p> 
+<p align="center"> 
   <a href="https://github.com/DhananjaySapawat">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DhananjaySapawat&count_private=true&show_icons=true&theme=algolia&&include_all_commits=true"/>
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DhananjaySapawat&count_private=true&hide=html,css,Makefile&layout=compact&langs_count=10&theme=algolia"/>
