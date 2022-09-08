@@ -1,4 +1,4 @@
-<p align = "center" > Hi! </p>
+<h2 align = "center" > Hi! I am Dhananjay </h2>
 
 
 I am a final-year B.Tech CSE Student at IIT Delhi. I have experience and interest in full stack development. I am proficient in c++ and love competitive coding.
