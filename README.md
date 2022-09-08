@@ -1,11 +1,7 @@
 <p align = "center" > Hi! </p>
 
 
-I am Dhananjay Sapawat, I am an Undergraduate at IIT Delhi Computer Science .
-
-
-I am mainly interested in web development.
-
+I am a final-year B.Tech CSE Student at IIT Delhi. I have experience and interest in full stack development. I am proficient in c++ and love competitive coding.
 
 **************************************************************************************************************************
 
