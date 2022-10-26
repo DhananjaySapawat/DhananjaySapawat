@@ -3,7 +3,6 @@
 
 I am a final-year B.Tech CSE Student at IIT Delhi. I have experience and interest in full stack development. I am proficient in c++ and love competitive coding.
 
-I like watching cricket and my favorite Cricketer is MS Dhoni.
 **************************************************************************************************************************
 ## TECHNICAL SKILLS
 ### Programming Languages:
