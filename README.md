@@ -1,7 +1,7 @@
 <h2 align = "center" > Hi! I am Dhananjay </h2>
 
 
-I am a final-year B.Tech CSE Student at IIT Delhi. I have experience and interest in full stack development. I am proficient in c++ and love competitive coding.
+As a recent graduate with a passion for machine learning and computer vision, and strong skills in C++ and Python, I'm eager to innovate and solve complex problems. I've worked on projects that apply machine learning and computer vision techniques to analyze data and extract insights. I'm excited to connect with others to explore collaboration and share knowledge in these dynamic fields.
 
 **************************************************************************************************************************
 ## TECHNICAL SKILLS
@@ -15,8 +15,6 @@ I am a final-year B.Tech CSE Student at IIT Delhi. I have experience and interes
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)&nbsp;
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ### DataBase:
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql&logoColor=31648C)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb&logoColor=52A74B)&nbsp;
